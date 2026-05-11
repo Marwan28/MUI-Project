@@ -21,23 +21,30 @@ The app helps a student browse ITI courses, register for a course, view profile 
 
 ### Home
 
-![Home page](screenshots/home.png)
+<img width="1920" height="1145" alt="screencapture-localhost-5173-2026-05-11-16_41_40" src="https://github.com/user-attachments/assets/1418fc20-bc6d-4fed-b0e8-5ecb2223199f" />
+
 
 ### Courses
 
-![Courses page](screenshots/courses.png)
+<img width="1920" height="1411" alt="screencapture-localhost-5173-2026-05-11-16_42_13" src="https://github.com/user-attachments/assets/7d445069-e89d-48dc-a183-1ac7a8fcfdbf" />
+
 
 ### Register
 
-![Register page](screenshots/register.png)
+<img width="1920" height="878" alt="screencapture-localhost-5173-2026-05-11-16_42_41" src="https://github.com/user-attachments/assets/13aa2b61-85fa-4be9-bf12-9d5d4f43bc34" />
+
 
 ### Profile
 
-![Profile page](screenshots/profile.png)
+<img width="1920" height="878" alt="screencapture-localhost-5173-2026-05-11-16_42_55" src="https://github.com/user-attachments/assets/604850b6-c94d-4a40-91cf-dae6e9c69d8e" />
+
 
 ### Settings
 
-![Settings page](screenshots/settings.png)
+<img width="1920" height="878" alt="screencapture-localhost-5173-2026-05-11-16_43_43" src="https://github.com/user-attachments/assets/1364fa01-e1fe-42fa-bf4e-7c43a002cb93" />
+<img width="1920" height="878" alt="screencapture-localhost-5173-2026-05-11-16_43_53" src="https://github.com/user-attachments/assets/58f4b17e-5932-4961-8e99-918a4f250dda" />
+
+
 
 ## Material UI Components Used
 
